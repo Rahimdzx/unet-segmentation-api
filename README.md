@@ -3,7 +3,7 @@
 Production-grade **FastAPI** service for dental (panoramic X-ray) segmentation, accelerated with **ONNX Runtime**.
 
 <p align="center">
-  <img src="docs/example_mask.png" alt="Ground-truth vs. prediction example" width="90%">
+  <img src="example_mask.png" alt="Ground-truth vs. prediction example" width="90%">
 </p>
 
 ---
